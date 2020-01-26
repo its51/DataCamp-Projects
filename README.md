@@ -18,3 +18,9 @@
 | Who Is Drunk and When in Ames, Iowa? | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
 | Disney Movies and Box Office Success | Explore Disney movie data, then build a linear regression model to predict box office success. |
 | Find Movie Similarity from Plot Summaries | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. |
+| Bad passwords and the NIST guidelines | Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines. |
+| A New Era of Data Analysis in Baseball | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
+| Generating Keywords for Google AdWords | Automatically generate keywords for a search engine marketing campaign using Python. |
+
+
+
