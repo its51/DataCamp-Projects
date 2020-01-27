@@ -21,6 +21,10 @@
 | Bad passwords and the NIST guidelines | Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines. |
 | A New Era of Data Analysis in Baseball | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | Generating Keywords for Google AdWords | Automatically generate keywords for a search engine marketing campaign using Python. |
+| Which Debts Are Worth the Bank's Effort? | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
+| The Android App Market on Google Play | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
+
+
 
 
 
