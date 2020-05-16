@@ -24,7 +24,7 @@
 | Which Debts Are Worth the Bank's Effort? | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | The Android App Market on Google Play | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
 | Give Life: Predict Blood Donations | Build a binary classifier to predict if a blood donor is likely to donate again. |
-
+| TV, Halftime Shows, and the Big Game | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. |
 
 
 
